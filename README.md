@@ -36,7 +36,7 @@ Each pair of username and password are mentioned in each line of the `users.txt`
 
 ## Test Cases
 <details>
-  <summary></summary>
+  <summary>Click to expand</summary>
     
   - Start the server
   - Start client 1
