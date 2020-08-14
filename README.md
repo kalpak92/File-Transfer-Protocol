@@ -34,28 +34,27 @@ Run: <br/>
 The **`username`** and **`password`** can be found at `users.txt` file under /src folder. 
 Each pair of username and password are mentioned in each line of the `users.txt` file.
 
-
 ## Test Cases
 <details>
-    <summary> Click to Expand </summary>
+  <summary></summary>
     
-    - Start the server
-    - Start client 1
-    - Start client 2
-    - Try an invalid command on one of the clients (other than `ftpclient <IP port>`, `dir`, `get <filename>` and `upload <filename>`)
-    - Try one of the valid commands `dir`, `get <filename>` and `upload <filename>`.
-    - Try command `ftpclient <IP port>` with wrong IP or port number
-    - Command `ftpclient <IP port>` with correct IP and port number
-    - Try one of the commands `ftpclient <IP port>`, `dir`, `get <filename>` and `upload <filename>`
-    - Try logging in with the wrong username or password
-    -  Login with correct username and password
-    - Try an invalid command on the client (other than `ftpclient <IP port>`, `dir`, `get <filename>` and `upload <filename>`)
-    - Try command `ftpclient <IP port>`
-    - Try uploading a file that doesn’t exist
-    - Command `upload` for a valid file from client 1 to server
-    - Command `dir` from client 2
-    - Try `get` wrong file name
-    - Command “get” on client 2 for the file that client 1 uploaded to the server
+  - Start the server
+  - Start client 1
+  - Start client 2
+  - Try an invalid command on one of the clients (other than `ftpclient <IP port>`, `dir`, `get <filename>` and `upload <filename>`)
+  - Try one of the valid commands `dir`, `get <filename>` and `upload <filename>`.
+  - Try command `ftpclient <IP port>` with wrong IP or port number
+  - Command `ftpclient <IP port>` with correct IP and port number
+  - Try one of the commands `ftpclient <IP port>`, `dir`, `get <filename>` and `upload <filename>`
+  - Try logging in with the wrong username or password
+  - Login with correct username and password
+  - Try an invalid command on the client (other than `ftpclient <IP port>`, `dir`, `get <filename>` and `upload <filename>`)
+  - Try command `ftpclient <IP port>`.
+  - Try uploading a file that doesn’t exist
+  - Command `upload` for a valid file from client 1 to server
+  - Command `dir` from client 2
+  - Try `get` wrong file name
+  - Command “get” on client 2 for the file that client 1 uploaded to the server
 </details>
 
 # Warning
