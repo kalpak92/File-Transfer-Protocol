@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="080b75dd-18ab-40dc-91a6-efbe15813736" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/shantanughosh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/emacs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FTPClientServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FTPClientServer/Test Folder/Client/Client1/s.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FTPClientServer/com/UFL/FTPClient/Client1/CNFTPClientRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FTPClientServer/com/UFL/FTPClient/Client1/FtpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FTPClientServer/com/UFL/FTPClient/Client2/CNFTPClientRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FTPClientServer/com/UFL/FTPClient/Client2/FtpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FTPClientServer/com/UFL/FTPServer/CNFTPServerRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FTPClientServer/com/UFL/FTPServer/FtpServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FTPClientServer/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test Folder/Client/Client1/s.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test Folder/Client/Client2/s.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test Folder/Server/s.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/UFL/FTPClient/Client1/CNFTPClientRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/UFL/FTPClient/Client1/FtpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/UFL/FTPClient/Client1/FtpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/UFL/FTPClient/Client2/CNFTPClientRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/UFL/FTPClient/Client2/FtpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/UFL/FTPServer/CNFTPServerRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/UFL/FTPServer/FtpServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/UFL/FTPServer/FtpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FTPProjectDescription.pdf" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RshkH7wIbfOGrnelL9mkLiopgI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/UFL/FTPClient/Client2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/UFL/FTPClient/Client1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FtpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.UFL.FTPClient.Client1.FtpClient" />
+      <module name="FTPClientServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.UFL.FTPClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.UFL.FTPServer.FtpServer" />
+      <module name="FTPClientServer" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.FtpClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FtpClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="080b75dd-18ab-40dc-91a6-efbe15813736" name="Default Changelist" comment="" />
+      <created>1570461851140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570461851140</updated>
+      <workItem from="1570461852356" duration="22836000" />
+      <workItem from="1570722539307" duration="4015000" />
+      <workItem from="1570727208105" duration="2008000" />
+      <workItem from="1571860530253" duration="681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/UFL/FTPClient/Client1/FtpClient.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/UFL/FTPClient/Client1/FtpClient.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/UFL/FTPClient/Client1/FtpClient.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/UFL/FTPClient/Client1/FtpClient.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/UFL/FTPClient/Client1/FtpClient.java</url>
+          <line>172</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="ex" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
