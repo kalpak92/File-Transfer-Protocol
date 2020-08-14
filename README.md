@@ -39,24 +39,23 @@ Each pair of username and password are mentioned in each line of the `users.txt`
 <details>
     <summary> Click to Expand </summary>
     
-    1. Start the server
-    2. Start client 1
-    3. Start client 2
-    4. Try an invalid command on one of the clients (other than "ftpclient <IP port>", "dir", "get <filename>" and "upload <filename>")
-    5. Try one of the valid commands "dir", "get <filename>" and "upload <filename>"
-    6. Try command "ftpclient <IP port>" with wrong IP or port number
-    7. Command "ftpclient <IP port>" with correct IP and port number
-    8. Try one of the commands "ftpclient <IP port>", "dir", "get <filename>" and "upload <filename>"
-    9. Try logging in with the wrong username or password
-    10. Login with correct username and password
-    11. Try an invalid command on the client (other than "ftpclient <IP port>", "dir", "get <filename>" and "upload <filename>")
-    12. Try command "ftpclient <IP port>"
-    13. Try uploading a file that doesn’t exist
-    14. Command “upload” for a valid file from client 1 to server
-    15. Command “dir” from client 2
-    16. Try “get” wrong file name
-    17. Command “get” on client 2 for the file that client 1 uploaded to the server
-
+    - Start the server
+    - Start client 1
+    - Start client 2
+    - Try an invalid command on one of the clients (other than `ftpclient <IP port>`, `dir`, `get <filename>` and `upload <filename>`)
+    - Try one of the valid commands `dir`, `get <filename>` and `upload <filename>`.
+    - Try command `ftpclient <IP port>` with wrong IP or port number
+    - Command `ftpclient <IP port>` with correct IP and port number
+    - Try one of the commands `ftpclient <IP port>`, `dir`, `get <filename>` and `upload <filename>`
+    - Try logging in with the wrong username or password
+    -  Login with correct username and password
+    - Try an invalid command on the client (other than `ftpclient <IP port>`, `dir`, `get <filename>` and `upload <filename>`)
+    - Try command `ftpclient <IP port>`
+    - Try uploading a file that doesn’t exist
+    - Command `upload` for a valid file from client 1 to server
+    - Command `dir` from client 2
+    - Try `get` wrong file name
+    - Command “get” on client 2 for the file that client 1 uploaded to the server
 </details>
 
 # Warning
